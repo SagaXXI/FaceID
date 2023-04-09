@@ -29,7 +29,7 @@ That's why it will recognize only these faces, and won't recognize others. Howev
 # How to use
 
 ## Installation
-1.git clone from repository https://github.com/SagaXXI/FaceID
+1. git clone from repository https://github.com/SagaXXI/FaceID
 2. Install the required libraries. (Conda environment preferred). Using pip install -r requirements.txt
 3. Open the project in a IDE with python support
 4. Make sure you have a webcam connected, and run main.py file.
