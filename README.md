@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://github.com/SagaXXI/FaceID">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="Logo.png" alt="Logo" width="80" height="80">
   </a>
+</div>
 
 # This is the official implementation of
 
@@ -56,5 +57,5 @@ Daryn Tazabek - [LinkedIn](https://www.linkedin.com/in/daryn-tazabek-409100241/)
 
 ## License
 
-The code is available under MIT License. Please read the license terms available at [[Link]]()
+The code is available under MIT License. Please read the license terms available at [[Link]](https://github.com/SagaXXI/FaceID/blob/master/LICENSE)
 
