@@ -10,7 +10,7 @@
 
 The Face ID Attendance System is an application that allows to automate the attendance process using facial recognition technology. The system is designed to recognize the faces of students or employees and record their attendance automatically in a database.
 
-The application uses OpenCV library to capture the video stream from a webcam and Face-Recognition library to recognize the faces of the users using a pre-trained deep learning model. The model is trained on a dataset of images that represent the faces of the students or employees.
+The application uses OpenCV library to capture the video stream from a webcam and to recognize the faces of the users using a pre-trained deep learning model. The model is trained on a dataset of images that represent the faces of the students or employees.
 
 Once the faces are recognized, the system compares them with the faces in the database and records the attendance of the users who are recognized.
 
